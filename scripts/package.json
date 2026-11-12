@@ -1,0 +1,10 @@
+{
+  "name": "agent-roundtable-runner",
+  "private": true,
+  "type": "module",
+  "description": "Native Claude, Gemini and Codex multi-round discussion",
+  "scripts": {
+    "doctor": "node roundtable.mjs doctor",
+    "test": "node --test *.test.mjs test/*.test.mjs"
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Agent Roundtable"
+  short_description: "Discuss with Claude, Gemini and Codex over rounds"
+  default_prompt: "Use $agent-roundtable to run a multi-round exploration, decision or audit with Claude, Gemini and Codex."
+
+policy:
+  allow_implicit_invocation: false

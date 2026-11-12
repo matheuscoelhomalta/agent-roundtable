@@ -1,0 +1,25 @@
+{
+  "toolPermission": "strict",
+  "agentMode": "plan",
+  "allowNonWorkspaceAccess": false,
+  "disableSlashCommands": true,
+  "permissions": {
+    "allow": [],
+    "ask": [],
+    "deny": [
+      "command(*)",
+      "unsandboxed(*)",
+      "write_file(*)",
+      "mcp(*)",
+      "read_url(*)",
+      "execute_url(*)",
+      "read_file(*)"
+    ]
+  },
+  "statusLine": {
+    "enabled": false
+  },
+  "title": {
+    "enabled": false
+  }
+}

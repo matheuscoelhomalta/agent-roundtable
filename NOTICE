@@ -1,0 +1,5 @@
+Adapted from agent-roundtable in https://github.com/glebis/claude-skills
+Upstream commit: 4d37d3b0af1f98cb4ac820d9abbce95e38e909fb
+Copyright 2025-2026 Gleb Kalinin. MIT license in LICENSE.
+Local adaptation: native Claude/Gemini/Codex panel, restricted tools, evidence-aware outcomes, synthesis fidelity review, bounded recovery and process ownership, strict terminal status parsing. ACP, optional agents/formats and assisted setup removed.
+Follow-up: explicit requested/effective model reporting, registry snapshot provenance, distinct peer fixtures and direct doctor coverage.
